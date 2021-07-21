@@ -1,0 +1,37 @@
+﻿  KółkoIKrzyżyk.cpp
+  pole.cpp
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\pole.cpp(28,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\pole.cpp(33,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\pole.cpp(38,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\pole.cpp(53,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\pole.cpp(55,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  rozgrywka.cpp
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(99,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(101,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(106,13): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(119,13): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(132,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(132,52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(147,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(152,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\rozgrywka.cpp(152,52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  ruchsi.cpp
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(15,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(16,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(33,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(35,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(40,13): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(53,13): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(66,14): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(66,52): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(81,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(86,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(86,61): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(121,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(123,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(142,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(144,31): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(167,23): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\KółkoIKrzyżyk\ruchsi.cpp(169,27): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  Generowanie kodu...
+  KółkoIKrzyżyk.vcxproj -> D:\Studia\4 semestr\PAiMSI\p3\KółkoIKrzyżyk\Debug\KółkoIKrzyżyk.exe
